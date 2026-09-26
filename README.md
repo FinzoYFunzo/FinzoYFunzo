@@ -1,47 +1,26 @@
-<h1 align="center">¡Hola! Soy @FinzoYFunzo 👋</h1>
-<p align="center">
-  Construyendo proyectos con propósito, creatividad y código limpio.
-</p>
+# 💫 About Me:
 
-<p align="center">
-  <a href="https://github.com/FinzoYFunzo">
-    <img src="https://img.shields.io/badge/Perfil-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Siempre-Aprendiendo-0ea5e9?style=for-the-badge" alt="Siempre aprendiendo" />
-  <img src="https://img.shields.io/badge/Disponible-Para%20colaborar-22c55e?style=for-the-badge" alt="Disponible para colaborar" />
-</p>
+I'm a developer who likes breaking things, building them back up, and learning along the way.
 
----
+🌱 I’m currently learning
 
-## 🚀 Sobre mí
-- 💡 Me gusta convertir ideas en productos útiles.
-- 🧠 Enfoque en aprendizaje continuo y mejora constante.
-- 🤝 Abierto a colaborar en proyectos interesantes.
-- 🎯 Objetivo: crear soluciones simples para problemas reales.
+* Rust
+* pwn.college
 
-## 🧰 Stack & herramientas
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux)
+⚡ Fun fact
+I'm really into `ambient` and `post-rock`. Checkout my playlists on TIDAL
 
-## 📌 En este perfil encontrarás
-- Proyectos personales y experimentos.
-- Ideas en evolución.
-- Código con intención de ser claro y mantenible.
 
-## 🌱 Actualmente
-- Explorando nuevas tecnologías.
-- Mejorando arquitectura y buenas prácticas.
-- Construyendo cosas que me gustaría usar.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-parada-n) [![TIDAL](https://img.shields.io/badge/TIDAL-000000.svg?logo=tidal&logoColor=white)]([TU_LINK_DE_TIDAL](https://tidal.com/@nialera))
 
-## 📫 Contacto
-- Abre un **issue** o conecta desde mi perfil: **[@FinzoYFunzo](https://github.com/FinzoYFunzo)**
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=FinzoYFunzo&theme=gruvbox&hide_border=false)<br/>
 
 ---
 
 <p align="center">
-  <i>“Hazlo simple. Hazlo útil. Hazlo bien.”</i>
+  <i>“No matter where you are, everyone is always connected.”</i>
 </p>
